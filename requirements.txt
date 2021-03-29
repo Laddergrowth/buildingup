@@ -54,7 +54,7 @@ protobuf==3.9.1
 ptyprocess==0.6.0
 py==1.8.0
 pycosat==0.6.3
-Pygments==2.5.2
+Pygments==2.7.4
 pyowm==2.10.0
 pyparsing==2.4.5
 PyPDF2==1.26.0
