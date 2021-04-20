@@ -52,7 +52,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.2
 protobuf==3.9.1
 ptyprocess==0.6.0
-py==1.8.0
+py==1.10.0
 pycosat==0.6.3
 Pygments==2.5.2
 pyowm==2.10.0
